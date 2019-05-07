@@ -1,7 +1,11 @@
 # vue-snap-effect
 
 > vue实现灭霸打响指效果
+## 主要技术
 
+canvas动画实现打响指效果
+
+用Math.random 实现一半英雄随机灰飞烟灭。
 ## 构建
 
 ``` bash
